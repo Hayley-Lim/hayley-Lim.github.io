@@ -1,0 +1,13 @@
+h1 {
+    color: #08b380;
+    font-size: 25px;
+    padding: 20px 0px 5px 5px;
+    font-weight: bold;
+}
+  
+.navbar-brand { 
+    color: white;
+    margin: 0px 0px 0px 0px;
+    font-weight: bold;
+    background: #0ace93;
+  }
